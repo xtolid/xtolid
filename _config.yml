@@ -24,7 +24,7 @@ github_username:  xtolid
 
 # Build settings
 markdown: kramdown
-theme: just-the-docs 
+theme: jekyll-theme-midnight 
 plugins:
   - jekyll-feed
 

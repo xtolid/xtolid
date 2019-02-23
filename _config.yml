@@ -24,7 +24,7 @@ github_username:  xtolid
 
 # Build settings
 markdown: kramdown
-remote_theme: mattgraham/midnight
+theme: minima 
 plugins:
   - jekyll-feed
 

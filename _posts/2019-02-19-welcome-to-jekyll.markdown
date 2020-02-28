@@ -1,25 +1,17 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2019-02-19 18:15:54 -0500
-categories: jekyll update
+title:  "Marantz 2070 Restoration"
+date:   2020-02-28
+categories: Marantz Audio
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+# Marantz 2070 Restoration  
+A few years ago I purchased a Marantz 2070 from an online auction site for around two hundred dollars.
+I had planned on restoring the unit from day one, but had put it off due to the fact that it still sounded fantastic.  
+  
+Recently I have noticed a decline in audio quality which led me down the rabbit-hole of YouTube videos, and
+years long forum threads. Armed with these resources and a box full of new capacitors, I plan to begin the restoration
+project tomorrow.  
+  
+I will post photos of my successes and failures along the way. After I have completed the project I will list the bill
+of materials that I worked from in case anyone might benefit from them.  
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
